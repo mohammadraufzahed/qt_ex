@@ -1,35 +1,38 @@
 import QtQuick 2.12
 
 
-Rectangle {
-    id: cancel
-
+Item {
     property var buttonText
     property var normalButtonColor
     property var pressedButtonColor
 
-    color: normalButtonColor
+    Rectangle {
+        id: cancel
 
-    radius: 2
+        color: normalButtonColor
 
-    anchors.fill: parent
+        radius: 2
 
-    Text{
-        text: buttonText
-
-        anchors.centerIn: parent
-    }
-
-
-    MouseArea {
         anchors.fill: parent
 
-        onPressed: {
-            parent.color = pressedButtonColor
-        }
-        onReleased: {
-            parent.color = normalButtonColor
+        Text{
+            text: buttonText
+
+            anchors.centerIn: parent
         }
 
+
+        MouseArea {
+            anchors.fill: parent
+
+            onPressed: {
+                parent.color = pressedButtonColor
+            }
+            onReleased: {
+                parent.color = normalButtonColor
+            }
+
+        }
     }
+
 }
