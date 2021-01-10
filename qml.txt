@@ -1,0 +1,428 @@
+Sorting...
+Full Text Search...
+accounts-qml-module-doc/focal,focal 0.6+17.04.20170405-0ubuntu4 all
+  Online Accounts QML - documentation
+
+akqml/focal 8.6.1+dfsg-2build1 amd64
+  full featured webcam capture application - qml module
+
+cmake-extras/focal,focal 1.5-1 all
+  Extra CMake utility modules
+
+doxyqml/focal,focal 0.3.0-1.1 all
+  QML filter for Doxygen
+
+elpa-qml-mode/focal,focal 0.4-3 all
+  Emacs major mode for editing QT Declarative (QML) code
+
+kdevelop/focal 4:5.5.0-2 amd64
+  integrated development environment for C/C++ and other languages
+
+kpackagelauncherqml/focal 5.68.0-0ubuntu2 amd64
+  commandline tool for launching kpackage QML application
+
+libanalitzawidgets8/focal 4:19.12.3-0ubuntu2 amd64
+  library to work with mathematical expressions - widgets
+
+libkf5calendarevents5/focal 5.68.0-0ubuntu2 amd64
+  provides integration of QML and KDE frameworks -- calendarevents
+
+libkf5declarative-data/focal,focal 5.68.0-0ubuntu2 all
+  provides integration of QML and KDE frameworks
+
+libkf5declarative-dev/focal 5.68.0-0ubuntu2 amd64
+  development files for kdeclarative
+
+libkf5declarative-doc/focal,focal 5.68.0-0ubuntu2 all
+  provides integration of QML and KDE frameworks (documentation)
+
+libkf5declarative5/focal 5.68.0-0ubuntu2 amd64
+  provides integration of QML and KDE frameworks
+
+libkf5people-data/focal,focal 5.68.0-0ubuntu1 all
+  data files for kpeople
+
+libkf5people-dev/focal 5.68.0-0ubuntu1 amd64
+  development files for kpeople
+
+libkf5people-doc/focal,focal 5.68.0-0ubuntu1 all
+  framework providing unified access to contacts aggregated by person (documentation)
+
+libkf5people5/focal 5.68.0-0ubuntu1 amd64
+  framework providing unified access to contacts aggregated by person
+
+libkf5peoplebackend5/focal 5.68.0-0ubuntu1 amd64
+  framework providing unified access to contacts aggregated by person
+
+libkf5peoplewidgets5/focal 5.68.0-0ubuntu1 amd64
+  framework providing unified access to contacts aggregated by person
+
+libkf5qqc2desktopstyle-dev/focal 5.68.0-0ubuntu1 amd64
+  Qt Quick Controls 2: Desktop Style
+
+libkf5quickaddons5/focal 5.68.0-0ubuntu2 amd64
+  provides integration of QML and KDE frameworks -- quickaddons
+
+libqbscore1.13/focal,now 1.13.1-2build1 amd64 [installed,automatic]
+  Qbs core library
+
+libqt5qml5/focal,now 5.12.8-0ubuntu1 amd64 [installed,automatic]
+  Qt 5 QML module
+
+libqt5webchannel5/focal,now 5.12.8-0ubuntu1 amd64 [installed,automatic]
+  Web communication library for Qt
+
+libqt5webchannel5-dev/focal 5.12.8-0ubuntu1 amd64
+  Web communication library for Qt - development files
+
+libqt5webview5/focal 5.12.8-0ubuntu1 amd64
+  display web content in a QML application - Library
+
+libqt5webview5-dev/focal 5.12.8-0ubuntu1 amd64
+  display web content in a QML application - Development Files
+
+pkg-kde-tools/focal,focal 0.15.32ubuntu1 all
+  various packaging tools and scripts for KDE Applications
+
+pyotherside-doc/focal,focal 1.5.9-1build1 all
+  asynchronous Python 3 Bindings for Qt 5 (documentation)
+
+pyotherside-tests/focal 1.5.9-1build1 amd64
+  Asynchronous Python 3 Bindings for Qt 5 (tests)
+
+python3-pyqt5.qtquick/focal 5.14.1+dfsg-3build1 amd64
+  Python 3 bindings for QtQuick module
+
+python3-pyqt5.qtquick-dbg/focal 5.14.1+dfsg-3build1 amd64
+  Python 3 bindings for QtQuick module (debug extension)
+
+python3-pyside2.qtqml/focal 5.14.0-1~exp1ubuntu5 amd64
+  Python bindings for Qt5 Qml module (Python 3)
+
+qbs/focal 1.13.1-2build1 amd64
+  cross-platform build tool
+
+qbs-common/focal,focal,now 1.13.1-2build1 all [installed,automatic]
+  Qbs static files
+
+qbs-dev/focal 1.13.1-2build1 amd64
+  Qbs development files
+
+qbs-doc/focal,focal 1.13.1-2build1 all
+  Qbs documentation
+
+qbs-doc-html/focal,focal 1.13.1-2build1 all
+  Qbs HTML documentation
+
+qbs-examples/focal,focal 1.13.1-2build1 all
+  examples for Qbs build tool
+
+qml/focal,now 5.12.8-0ubuntu1 amd64 [installed]
+  Qt 5 QML viewer
+
+qml-module-gsettings1.0/focal 0.2-1 amd64
+  QML Bindings for GSettings
+
+qml-module-io-thp-pyotherside/focal 1.5.9-1build1 amd64
+  asynchronous Python 3 Bindings for Qt 5 (QML plugin)
+
+qml-module-ofono/focal 0.90+16.10.20160901-0ubuntu2 amd64
+  QML bindings for libqofono
+
+qml-module-org-kde-activities/focal 5.68.0-0ubuntu2 amd64
+  provides integration of QML and KDE Frameworks
+
+qml-module-org-kde-analitza/focal 4:19.12.3-0ubuntu2 amd64
+  library to work with mathematical expressions - QML library
+
+qml-module-org-kde-bluezqt/focal 5.68.0-0ubuntu1 amd64
+  QML wrapper for bluez
+
+qml-module-org-kde-charts/focal 4:19.12.3-0ubuntu1 amd64
+  QtQuick plugin to render interactive charts
+
+qml-module-org-kde-draganddrop/focal 5.68.0-0ubuntu2 amd64
+  provides integration of QML and KDE frameworks - draganddrop
+
+qml-module-org-kde-games-core/focal 4:19.12.3-1ubuntu1 amd64
+  kde-games-core QtDeclarative QML support
+
+qml-module-org-kde-kaccounts/focal 4:19.12.3-0ubuntu1 amd64
+  KAccounts QtDeclarative QML Support
+
+qml-module-org-kde-kcm/focal 5.68.0-0ubuntu2 amd64
+  provides integration of QML and KDE Frameworks - kcm
+
+qml-module-org-kde-kconfig/focal 5.68.0-0ubuntu2 amd64
+  provides integration of QML and KDE Frameworks - kconfig
+
+qml-module-org-kde-kcoreaddons/focal 5.68.0-0ubuntu2 amd64
+  provides integration of QML and KDE frameworks - kcoreaddons
+
+qml-module-org-kde-kholidays/focal 1:5.68.0-0ubuntu1 amd64
+  holidays calculation library - qml files
+
+qml-module-org-kde-kio/focal 5.68.0-0ubuntu2 amd64
+  provides integration of QML and KDE Frameworks - kio
+
+qml-module-org-kde-kirigami2/focal 5.68.0-0ubuntu2 amd64
+  set of QtQuick components targeted for mobile use
+
+qml-module-org-kde-kitemmodels/focal 5.68.0-0ubuntu1 amd64
+  additional item/view models for Qt Itemview
+
+qml-module-org-kde-kquickcontrols/focal 5.68.0-0ubuntu2 amd64
+  provides integration of QML and KDE frameworks - kquickcontrols
+
+qml-module-org-kde-kquickcontrolsaddons/focal 5.68.0-0ubuntu2 amd64
+  provides integration of QML and KDE Frameworks - kquickcontrolsaddons
+
+qml-module-org-kde-kwindowsystem/focal 5.68.0-0ubuntu2 amd64
+  provides integration of QML and KDE frameworks - kwindowsystem
+
+qml-module-org-kde-newstuff/focal 5.68.0-0ubuntu2 amd64
+  Support for downloading application assets from the network.
+
+qml-module-org-kde-okular/focal 4:19.12.3-2ubuntu1 amd64
+  mobile support for Okular - QML modules
+
+qml-module-org-kde-people/focal 5.68.0-0ubuntu1 amd64
+  framework providing unified access to contacts aggregated by person
+
+qml-module-org-kde-prison/focal 5.68.0-0ubuntu1 amd64
+  barcode API for Qt
+
+qml-module-org-kde-purpose/focal 5.68.0-0ubuntu1 amd64
+  abstraction to provide and leverage actions of a specific kind, qml bindings
+
+qml-module-org-kde-qqc2desktopstyle/focal 5.68.0-0ubuntu1 amd64
+  Qt Quick Controls 2: Desktop Style
+
+qml-module-org-kde-quickcharts/focal 5.68.0-0ubuntu2 amd64
+  Quick Charts
+
+qml-module-org-kde-runnermodel/focal 5.68.0-0ubuntu1 amd64
+  Used to write plugins loaded at runtime called "Runners".
+
+qml-module-org-kde-solid/focal 5.68.0-0ubuntu1 amd64
+  Qt library to query and control hardware plugin
+
+qml-module-org-kde-telepathy/focal 4:19.12.3-0ubuntu1 amd64
+  kde-telepathy QtDeclarative QML support
+
+qml-module-org-nemomobile-mpris/focal 0.1.0-2build1 amd64
+  Qt 5 MPRIS interface and adaptor QML module
+
+qml-module-qmltermwidget/focal 1.1.1-2build1 amd64
+  QML port of qtermwidget
+
+qml-module-qt-labs-calendar/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt 5 qt.labs.calendar QML module
+
+qml-module-qt-labs-folderlistmodel/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 folderlistmodel QML module
+
+qml-module-qt-labs-location/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt Location Labs module
+
+qml-module-qt-labs-platform/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt 5 qt.labs.platform QML module
+
+qml-module-qt-labs-qmlmodels/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 Qt.labs.qmlmodels QML module
+
+qml-module-qt-labs-settings/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 settings QML module
+
+qml-module-qt-labs-sharedimage/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 SharedImage QML module
+
+qml-module-qt-labs-wavefrontmesh/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 Qt.labs.wavefrontmesh QML module
+
+qml-module-qt-websockets/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 Web Sockets compatibility QML module
+
+qml-module-qt3d/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt 5 3D QML module
+
+qml-module-qtaudioengine/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 AudioEngine QML module
+
+qml-module-qtav/focal 1.13.0+ds-1build2 amd64
+  QtAV QML module
+
+qml-module-qtbluetooth/focal 5.12.8-0ubuntu1 amd64
+  Qt Connectivity module - Bluetooth QML module
+
+qml-module-qtcharts/focal 5.12.8-0ubuntu1 amd64
+  Qt charts QML module
+
+qml-module-qtdatavisualization/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 Data Visualization QML module
+
+qml-module-qtgraphicaleffects/focal,now 5.12.8-0ubuntu1 amd64 [installed,automatic]
+  Qt 5 Graphical Effects module
+
+qml-module-qtgstreamer/focal 1.2.0-5 amd64
+  QML plugins from QtGStreamer - Qt 5 build
+
+qml-module-qtlocation/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt Location QML module
+
+qml-module-qtmultimedia/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 Multimedia QML module
+
+qml-module-qtnfc/focal 5.12.8-0ubuntu1 amd64
+  Qt Connectivity module - NFC QML module
+
+qml-module-qtpositioning/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt Positioning QML module
+
+qml-module-qtqml-models2/focal,now 5.12.8-0ubuntu1 amd64 [installed,automatic]
+  Qt 5 Models2 QML module
+
+qml-module-qtqml-statemachine/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 State Machine QML module
+
+qml-module-qtquick-controls/focal,now 5.12.8-0ubuntu2 amd64 [installed,automatic]
+  Qt 5 Quick Controls QML module
+
+qml-module-qtquick-controls2/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt 5 Qt Quick Controls 2 QML module
+
+qml-module-qtquick-dialogs/focal 5.12.8-0ubuntu2 amd64
+  Qt 5 Dialogs QML module
+
+qml-module-qtquick-extras/focal 5.12.8-0ubuntu2 amd64
+  Qt 5 Quick Extras QML module
+
+qml-module-qtquick-layouts/focal,now 5.12.8-0ubuntu1 amd64 [installed,automatic]
+  Qt 5 Quick Layouts QML module
+
+qml-module-qtquick-localstorage/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 localstorage QML module
+
+qml-module-qtquick-particles2/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 particles 2 QML module
+
+qml-module-qtquick-privatewidgets/focal 5.12.8-0ubuntu2 amd64
+  Qt 5 Private Widgets QML module
+
+qml-module-qtquick-scene2d/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt 5 Quick Scene 2D QML module
+
+qml-module-qtquick-scene3d/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt 5 Quick Scene 3D QML module
+
+qml-module-qtquick-shapes/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 Qt Quick Shapes QML module
+
+qml-module-qtquick-templates2/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt 5 Qt Quick Templates 2 QML module
+
+qml-module-qtquick-virtualkeyboard/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt virtual keyboard - QML module
+
+qml-module-qtquick-window2/focal,now 5.12.8-0ubuntu1 amd64 [installed,automatic]
+  Qt 5 window 2 QML module
+
+qml-module-qtquick-xmllistmodel/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 xmllistmodel QML module
+
+qml-module-qtquick2/focal,now 5.12.8-0ubuntu1 amd64 [installed,automatic]
+  Qt 5 Qt Quick 2 QML module
+
+qml-module-qtremoteobjects/focal 5.12.8-0ubuntu1 amd64
+  Qt module for IPC — QML binding
+
+qml-module-qtscxml/focal 5.12.8-0ubuntu1 amd64
+  Qt scxml QML module
+
+qml-module-qtsensors/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 Sensors QML module
+
+qml-module-qttest/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 test QML module
+
+qml-module-qtwayland-compositor/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 Wayland Compositor QML module
+
+qml-module-qtwebchannel/focal 5.12.8-0ubuntu1 amd64
+  Web communication library for Qt - QML module
+
+qml-module-qtwebengine/focal-updates 5.12.8+dfsg-0ubuntu1.1 amd64
+  Qt WebEngine QML module
+
+qml-module-qtwebkit/focal 5.212.0~alpha4-1ubuntu2 amd64
+  Qt WebKit QML module
+
+qml-module-qtwebsockets/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 Web Sockets QML module
+
+qml-module-qtwebview/focal 5.12.8-0ubuntu1 amd64
+  display web content in a QML application
+
+qml-module-snapd/focal-updates 1.58-0ubuntu0.20.04.0 amd64
+  Snapd QML module
+
+qml-module-ubuntu-onlineaccounts/focal 0.6+17.04.20170405-0ubuntu4 amd64
+  Expose the Online Accounts API to QML applications
+
+qmlscene/focal,now 5.12.8-0ubuntu1 amd64 [installed,automatic]
+  Qt 5 QML scene viewer
+
+qt5-qmltooling-plugins/focal,now 5.12.8-0ubuntu1 amd64 [installed,automatic]
+  Qt 5 qmltooling plugins
+
+qtav-players/focal 1.13.0+ds-1build2 amd64
+  QtAV/QML players
+
+qtbase5-private-dev/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt 5 base private development files
+
+qtbase5-private-gles-dev/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt 5 base private development files — OpenGL ES variant
+
+qtdeclarative5-accounts-plugin/focal 0.6+17.04.20170405-0ubuntu4 amd64
+  transitional dummy package for Online Accounts QML clients
+
+qtdeclarative5-dee-plugin/focal 3.3+14.04.20140317-0ubuntu4 amd64
+  Qt 5 QML plugin for Dee
+
+qtdeclarative5-kf5declarative/focal,focal 5.68.0-0ubuntu2 all
+  transitional package for new QML module packages
+
+qtdeclarative5-kf5solid/focal,focal 5.68.0-0ubuntu1 all
+  transitional package to renamed qml-module-org-kde-solid
+
+qtdeclarative5-poppler1.0/focal 0.1.1+13.10.20130819.3-0ubuntu4~gcc5.2 amd64
+  Poppler QML plugin
+
+qtdeclarative5-qtpowerd0.1/focal 0.2+13.10.20131014.3-0ubuntu4 amd64
+  Powerd QML plugin
+
+qtwebchannel5-doc/focal,focal,now 5.12.8-0ubuntu1 all [installed,automatic]
+  Web communication library for Qt - Documentation
+
+qtwebchannel5-doc-html/focal,focal 5.12.8-0ubuntu1 all
+  Web communication library for Qt - HTML Documentation
+
+qtwebchannel5-examples/focal 5.12.8-0ubuntu1 amd64
+  Web communication library for Qt - Examples
+
+qtwebview5-doc/focal,focal,now 5.12.8-0ubuntu1 all [installed,automatic]
+  display web content in a QML application - Documentation
+
+qtwebview5-doc-html/focal,focal 5.12.8-0ubuntu1 all
+  display web content in a QML application - HTML Documentation
+
+qtwebview5-examples/focal 5.12.8-0ubuntu1 amd64
+  display web content in a QML application - Examples
+
+verdigris/focal 1.0-1 amd64
+  Header-only Qt moc replacement
+
+vim-syntastic/focal,focal 3.10.0-2 all
+  Syntax checking hacks for vim
+

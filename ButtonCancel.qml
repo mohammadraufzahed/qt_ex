@@ -1,10 +1,13 @@
-import QtQuick 2.11
+import QtQuick 2.12
 
 
 Item {
     property var buttonText
     property var normalButtonColor
     property var pressedButtonColor
+
+    width: 100
+    height: 50
 
     Rectangle {
         id: cancel
